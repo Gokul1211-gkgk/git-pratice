@@ -1,0 +1,1 @@
+Task1 :Create a folder named git_practice, create a text file called notes.txt and track it with Git.
